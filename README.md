@@ -16,7 +16,7 @@
 * web failsafe IP is 192.168.1.111
 * DDR2 can be 64MB or 128MB,just select 512Mbit or 1024Mbit in menuconfig
 ***
-* QQ:771992497
-* mail:[QQMAIL](771992497@qq.com)
-* weibo:[@芒果Geek](http://weibo.com/linuxgeek)
-##Thanks to Manfeel、cleanwrt、Piotr Dymac、Adam Dunkels。
+* QQ:317312379
+* mail:317312379@qq.com
+
+## Official website:www.hi-wooya.com
